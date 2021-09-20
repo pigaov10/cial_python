@@ -19,5 +19,6 @@ python3 main.py
 
 Docker
 ```sh
-docker run -d --name teste 
+docker build -t crawler-phone-logo .
+docker run -it crawler-phone-logo
 ```
