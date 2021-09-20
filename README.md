@@ -19,5 +19,5 @@ python3 main.py
 
 Docker
 ```sh
-docker run -d -p 8000:8000 --name rest-server node-docker
+docker run -d --name teste 
 ```
